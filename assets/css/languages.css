@@ -1,0 +1,23 @@
+.languages{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.languages li{
+   padding: 1rem;
+}
+
+.languages .icon{
+    
+    padding: 0 0.5rem 0 0 ;
+   
+}
+
+.languages .ul{
+   color: rgb(255, 255, 255); 
+}
