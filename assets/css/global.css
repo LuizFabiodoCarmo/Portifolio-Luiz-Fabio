@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(47, 80, 62);
+}
+.main {
+    border: 15px solid #53A041;
+    border-radius: 1rem;
+    background-color: #fff;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+
+ @media only screen and (min-width: 480px) {
+    .main {
+        max-width: 1500px;
+        justify-items: center;
+      
+    }
+} 

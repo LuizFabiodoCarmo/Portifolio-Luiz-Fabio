@@ -1,0 +1,102 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header .photo{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid #53A041;
+    max-width: 500px;
+    
+}
+
+
+.header .title{
+    text-align: center ;
+    color: #53A041;
+}
+
+
+.header .icon{
+    
+    padding: 0 1rem 0 0 ;
+    color: #53A041;
+   
+}
+
+img {
+    transition: all 0.3s ease-in-out;
+  }
+  
+img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    
+  }
+
+.header a{
+   color: #53A041;
+   text-decoration: none; 
+}
+
+
+.header .button{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    background-color: aliceblue;
+    border-radius: 30px;
+    border:#53A041 4px solid;
+    color: #53A041;
+    font-size: 20px; 
+    margin: 1rem 0 0 0 ;
+    width: 15.5rem;
+    cursor: pointer;
+}
+
+.information{
+    
+    align-items: flex-start;
+    width: 100%;
+    
+}
+
+.information li{
+    margin: .5rem;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    font-size: 1.3rem;
+    color: #53A041;
+}
+
+@media only screen and (min-width: 768px) {
+    .header{
+       display: grid; 
+       grid-template-areas: 
+          "photo title"
+          "photo information";
+    }
+    .header .photo{
+        grid-area: photo;
+        margin: 0 auto;
+        width: 500px;
+        height: 500px;
+      }  
+    .header .title{
+        grid-area: title;
+        text-align: start;
+        margin-left: 2.5rem;
+    }    
+    .header .information{
+        grid-area:information;
+        margin-left: 1.5rem;
+     }
+     
+     
+}     
