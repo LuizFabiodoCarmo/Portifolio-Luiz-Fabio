@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="assets/css/global.css">
     <link rel="stylesheet" href="assets/css/header.css">
     <link rel="stylesheet" href="assets/css/read.css">
+    <link rel="stylesheet" href="assets/css/watch.css">
 
 
 </head>
@@ -154,7 +155,23 @@
             <h3>Ou asssista ao </h3>
         </div>
 
-
+      
+        <section class="watch">
+            <div class="view">
+                <video class="video-screen" src="assets/video/202405272156.mp4"></video>
+                <section class="space">
+                    <button class="btn " onclick="play()"><strong>play</strong> </button>
+                    <button class="btn " onclick="pause()"><strong>pause</strong> </button>
+                    <button class="btn " onclick="stop()"><strong>stop</strong> </button>
+                    <button class="btn " onclick="inc()"><strong>+</strong> </button>
+                    <button class="btn " onclick="dec()"><strong>-</strong> </button>
+                    <button class="btn " onclick="retroceder()"><strong>&#60;&#60;20</strong> </button>
+                    <button class="btn " onclick="avançar()"><strong> &#62;&#62;20</strong></button>
+                    <button class="btn" onclick="toggleFullscreen()"><strong>Full</strong> </button>
+                </section>
+            </div>
+            <button id="listen_video">Vídeo/Apresentação</button>
+        </section>
 
 
 
@@ -162,6 +179,9 @@
 
       
     <script src="assets/js/read.js"></script>      
+    <script src="assets/js/video.js"></script>
+    <script src="assets/js/listen.js"></script>
+    <script src="assets/js/function.js"></script>
 
 </body>
 
