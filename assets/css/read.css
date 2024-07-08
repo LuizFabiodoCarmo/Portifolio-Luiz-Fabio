@@ -1,0 +1,89 @@
+
+ p,ol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.5rem;
+    color: #53A041;
+    transition: max-height 0.4s ease-in-out;
+    position: relative;
+    padding: 0.5rem 1rem 1rem 2rem;
+   
+}
+
+ol{
+  list-style: none;
+}
+
+ h3{
+     color: #53A041;
+     font-size: 2rem;
+     text-align: center;
+     padding: 4rem 0 1rem 0 ;
+     margin: 2px;
+ }   
+
+.container{
+  padding: 15px;
+  text-align: justify;
+  display: none;
+}
+
+#read-more{
+   cursor: pointer; 
+   transition: max-height 0.2s ease-in-out;
+   background-color: aliceblue;
+   border-radius: 30px;
+   border:#53A041 5px solid;
+   color: #53A041;
+   margin-top: 1rem;
+   display: flex;
+   font-size: 20px;
+   width: 10rem;
+   height: 2.5rem;
+   justify-content: center;
+   align-items: center;
+   justify-items: center;
+  
+}
+
+  .align-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300xp;
+  padding: 25px;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  
+}
+
+.content{
+  height: 0px;
+  overflow: hidden;
+  margin: 1rem 2rem 1rem 4rem;
+}
+
+
+.card.content::before{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+.card.active .content{
+  height: auto;
+}
+
+.card.active .content::before{
+  visibility: hidden;
+} 
+
