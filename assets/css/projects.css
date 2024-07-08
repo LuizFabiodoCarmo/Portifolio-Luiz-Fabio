@@ -1,0 +1,134 @@
+.projects{
+  border-bottom: .5rem solid;
+  color: #53A041;
+  position: relative;
+  display: grid;
+  justify-content: center;
+  place-items: center;  
+  margin: 6rem 3rem 1rem 3rem;
+  margin-bottom: 3rem;
+  font-size: x-large;
+}
+
+.main {
+  padding: 5rem;
+  border: 15px solid #53A041;
+  border-radius: 1rem;
+  background-color: #fff;
+  align-items: center;
+}
+
+.card :hover{
+  background-color:none;
+  border: #53A041; 
+}
+
+div.card .trigger{
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 1rem 2rem;
+  background-color: aliceblue;
+  color: #53A041;
+  border:  #53A041 5px solid;
+  border-radius:4.0rem ;
+  justify-content: space-between;
+}
+
+.card .trigger::after{
+  content:""; 
+  display: block;
+  position: relative;
+  width: 2rem;
+  height: 2rem; 
+  transition: .25s;
+}
+
+.card .trigger:hover{
+  cursor: pointer;
+}
+
+.card .content{
+  overflow: hidden;
+  height: 0;
+  transition: opacity .25s ease-in-out;
+  color: #53A041;
+  display: none;
+  font-size: 1.3rem;
+  border-radius:40px;
+  border:#1e6c0e 5px solid;
+  align-items: center;
+  margin:  0.5rem ;
+}
+
+.card.open .content{
+  padding: 1rem 1rem 1rem 1rem;
+  display: inline-block;
+  height: 100%;
+  
+}
+
+h1{
+  color: #53A041;
+  text-align: center;
+  font-size: 50px;
+ }
+
+h4{
+  color: rgb(22, 55, 25);
+  padding-top: 0;
+ font-size: 25px;
+}
+
+section{
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+section.cards{
+  display: flex;
+  padding: 3rem;
+  
+}
+
+section.cards div.card{
+  background-color: #93c389;    
+  max-width: 450px; 
+  margin-left: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; 
+  padding: 1rem 1.5rem;
+  border-radius: 15px;
+  }
+
+div.seccolor{
+  background-color: #93c389;
+  border-radius: 40px;
+  border: #53A041 8px solid;
+}
+
+div.content.try{
+  background-color: aliceblue;
+}
+
+@media screen and (max-width: 720px) {
+  section.cards{
+     flex-direction: column;
+   } 
+     
+   section.cards div.card{
+     margin-left: 0;
+     margin-bottom: 60px;
+   }
+   
+
+   section.cards div.card:last-child{
+    margin-bottom: 0;
+   }
+
+
+} 
+
