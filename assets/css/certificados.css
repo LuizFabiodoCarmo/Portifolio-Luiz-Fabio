@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: rgb(47, 80, 62);
+    
+}
+
+.main {
+    padding: 5rem;
+    border: 15px solid #53A041;
+    border-radius: 1rem;
+    background-color: #fff;
+ 
+}
+
+section{
+    margin-bottom: 0;
+    margin-top: 0;
+
+/* como diminuir a distancia de uma section pra outra */
+
+
+
+}
+ section.cards{
+    display: flex;
+    padding: 3rem;
+    
+}
+
+div.seccolor{
+    background-color: #93c389;
+    border-radius: 40px;
+    border: #53A041 8px solid;
+}
+
+/* section{
+ background-color: #93c389;
+ /* border-radius: 4.0rem;
+ alterar pro final das que tem mais de três cards não ficarem com o border 
+ 
+} */
+
+section.cards div.card{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ text-align: center;
+ background-color: #f0f8ff;
+ border:#53A041 4px solid;
+ color: #53A041;
+ padding: 1rem 1.5rem;
+ border-radius: 15px;
+ max-width: 450px; 
+ margin-left: 32px;
+}
+
+section.cards div.card span{
+   color: #124f04;
+   font-size: 1.5rem;
+
+}
+
+section.cards div.card button{
+    cursor: pointer; 
+    transition: max-height 0.2s ease-in-out;
+    background-color: aliceblue;
+    border-radius: 30px;
+    border:#53A041 5px solid;
+    color: #53A041;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    display: flex;
+    font-size: 20px;
+    width: 8rem;
+    height: 2.5rem;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+
+section.cards div.card:first-child{
+    margin-left: 0;
+    
+}
+
+
+section.cards div.card.icon{
+    width:"550px"; 
+    height:"500px";
+}
+
+section.cards div.card img{
+  width: 100%;
+}
+section.cards div.card h3{
+    margin-top: 1rem;   
+}
+
+h1{
+ color: #53A041;
+ text-align: center;
+ margin-bottom: 5rem;
+ font-size: 50px;
+
+}
+
+span{
+    margin-top: 1rem;
+    color: #124f04;
+}
+
+@media screen and (max-width: 720px) {
+  section.cards{
+     flex-direction: column;
+   } 
+     
+   section.cards div.card{
+     margin-left: 0;
+     margin-bottom: 60px;
+   }
+   
+
+   section.cards div.card:last-child{
+    margin-bottom: 0;
+   }
+
+
+} 
+
+div.bttn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+button.bback{
+    background-color: #ffffff;
+    border-radius: 30px;
+    border:#53A041 10px solid;
+    width: 15.5rem;
+    cursor: pointer; 
+    margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    top: 10px; 
+} 
