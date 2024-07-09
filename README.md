@@ -1,4 +1,5 @@
-<di align="center">![GitPort](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/c22e079e-0a2d-4b9d-bd3d-7f8787f3e9ef)
+<di align="center">
+![GitPort](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/c22e079e-0a2d-4b9d-bd3d-7f8787f3e9ef)
 </div>
 
 <h2 align="center" >Olá, seja bem vindo(a) ao meu projeto!</h2>
@@ -6,7 +7,8 @@
 </div>
 
 <h2 align="center" color="green">Contexto</h2>
-<p align="center">Aula ministra por: 
+Aula ministra por: 
+  [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
   [Renan Johannsen](https://www.linkedin.com/in/renanjpaula/)
   na plataforma digital da [DIO](https://www.dio.me/en).
-  Nome do curso : Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript.</p>
+  Nome do curso : Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript.
