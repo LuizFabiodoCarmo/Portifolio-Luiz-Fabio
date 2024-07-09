@@ -6,7 +6,9 @@
 
 <h2 align="center" color="green">Olá, seja bem vindo(a) ao meu projeto!</h2>
 
-
+<div align="center" border_color="#53A041">
+![projetos-_2_](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/6a181e5b-fae9-4e13-af3e-4cdd932c6279)
+</div>
 
 <div align="center" border_color="#53A041">
 <!--  <img align="center" alt="Baby Oda" height="150" style="border-radius:50 boder="#53A041"; "> -->
@@ -21,5 +23,5 @@
 </div>
 
 <div align="center" >
-![GifLog](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/8955cfad-287f-4e69-a70c-ee788fd3615c)
+ ![GifLog](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/8955cfad-287f-4e69-a70c-ee788fd3615c)
 </div>
