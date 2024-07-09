@@ -14,7 +14,10 @@
  
 ![gif github ‐ Feito com o Clipchamp](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef)
  
-</div> 
+</div>
+![HahaGIF (2)](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/8403af85-6f82-4f26-b4dc-2a35d72217e1)
+![HahaGIF](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/69ca1e07-30ea-44d4-82c9-9211d76b45d4)
+
 
 <div align="center" >
 ![GifLog](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/8955cfad-287f-4e69-a70c-ee788fd3615c)
