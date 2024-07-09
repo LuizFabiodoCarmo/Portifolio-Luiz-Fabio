@@ -6,7 +6,7 @@
 
 <h2 align="center" color="green">Olá, seja bem vindo(a) ao meu projeto!</h2>
 
-<div align="center" height="180">
+<div align="center" height="50" >
  
 ![projetos-_2_](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/6a181e5b-fae9-4e13-af3e-4cdd932c6279)
  
