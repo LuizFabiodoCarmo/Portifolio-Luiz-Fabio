@@ -50,6 +50,6 @@ Tons de Verde : Riqueza, natureza, saúde, esperança.
 Tons de Branco : pureza, neutralidade, paz e espiritualidade.
 
 Caso tenha interesse, acesse meu Portifólio.
-[![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-#53A041?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
  
 
