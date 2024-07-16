@@ -147,10 +147,30 @@ button.bback{
     margin-bottom: 3rem;
 } 
 
-@media only screen and (min-width: 768px) {
+/* @media only screen and (min-width: 768px) {
     .main {
         max-width: 2000px;
         justify-items: center;
       
     }
-}
+} */
+
+@media screen and (max-width: 1139px) {
+
+
+
+    section.cards{
+       flex-direction: column;
+     } 
+       
+     section.cards div.card{
+       margin-left: 0;
+       margin-bottom: 60px;
+       justify-content: center;
+     }
+     
+  
+     section.cards div.card:last-child{
+      margin-bottom: 0;
+     }
+  } 

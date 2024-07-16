@@ -116,7 +116,7 @@ div.content.try{
   background-color: aliceblue;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 1139px) {
   section.cards{
      flex-direction: column;
    } 
