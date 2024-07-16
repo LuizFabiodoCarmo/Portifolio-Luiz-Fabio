@@ -8,30 +8,22 @@
 
 body {
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-between;
+    align-items: stretch;
     min-height: 100vh;
-    background: rgb(47, 80, 62);
-    
+    background: rgb(47, 80, 62); 
 }
 
 .main {
-    padding: 5rem;
     border: 15px solid #53A041;
     border-radius: 1rem;
     background-color: #fff;
  
 }
 
-section{
-    margin-bottom: 0;
-    margin-top: 0;
-
-/* como diminuir a distancia de uma section pra outra */
-
-
-
-}
  section.cards{
     display: flex;
     padding: 3rem;
@@ -42,14 +34,9 @@ div.seccolor{
     background-color: #93c389;
     border-radius: 40px;
     border: #53A041 8px solid;
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
-
-/* section{
- background-color: #93c389;
- /* border-radius: 4.0rem;
- alterar pro final das que tem mais de três cards não ficarem com o border 
- 
-} */
 
 section.cards div.card{
  display: flex;
@@ -110,9 +97,10 @@ section.cards div.card h3{
 h1{
  color: #53A041;
  text-align: center;
+ margin-top: 2rem;
  margin-bottom: 5rem;
  font-size: 50px;
-
+ align-items: center;
 }
 
 span{
@@ -120,7 +108,7 @@ span{
     color: #124f04;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
   section.cards{
      flex-direction: column;
    } 
@@ -156,4 +144,13 @@ button.bback{
     display: flex;
     position: relative;
     top: 10px; 
+    margin-bottom: 3rem;
 } 
+
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 2000px;
+        justify-items: center;
+      
+    }
+}

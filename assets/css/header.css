@@ -22,7 +22,6 @@
 
 
 .header .icon{
-    
     padding: 0 1rem 0 0 ;
     color: #53A041;
    
@@ -32,12 +31,6 @@ img {
     transition: all 0.3s ease-in-out;
   }
   
-img:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    
-  }
-
 .header a{
    color: #53A041;
    text-decoration: none; 
@@ -55,7 +48,7 @@ img:hover {
     color: #53A041;
     font-size: 20px; 
     margin: 1rem 0 0 0 ;
-    width: 15.5rem;
+    width: 12rem;
     cursor: pointer;
 }
 

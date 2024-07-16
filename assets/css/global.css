@@ -8,26 +8,26 @@
 
 body {
     display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
     justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: stretch;
     min-height: 100vh;
     background: rgb(47, 80, 62);
 }
 .main {
+    padding: 1rem;
     border: 15px solid #53A041;
     border-radius: 1rem;
     background-color: #fff;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    align-items: center;
-
 }
 
 
 
  @media only screen and (min-width: 480px) {
     .main {
-        max-width: 1500px;
+        max-width: 2000px;
         justify-items: center;
       
     }

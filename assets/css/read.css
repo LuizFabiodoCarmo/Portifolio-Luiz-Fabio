@@ -24,9 +24,10 @@ ol{
  }   
 
 .container{
-  padding: 15px;
   text-align: justify;
   display: none;
+  margin: 0;
+  padding: 0;
 }
 
 #read-more{

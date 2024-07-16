@@ -10,12 +10,12 @@
   font-size: x-large;
 }
 
-.main {
-  padding: 5rem;
+.mainer {
   border: 15px solid #53A041;
   border-radius: 1rem;
   background-color: #fff;
   align-items: center;
+  margin: 1rem;
 }
 
 .card :hover{
@@ -63,7 +63,7 @@ div.card .trigger{
 }
 
 .card.open .content{
-  padding: 1rem 1rem 1rem 1rem;
+  padding: 1rem;
   display: inline-block;
   height: 100%;
   
@@ -108,6 +108,8 @@ div.seccolor{
   background-color: #93c389;
   border-radius: 40px;
   border: #53A041 8px solid;
+  margin: 1rem;
+  padding: 0;
 }
 
 div.content.try{
@@ -128,7 +130,5 @@ div.content.try{
    section.cards div.card:last-child{
     margin-bottom: 0;
    }
-
-
 } 
 
