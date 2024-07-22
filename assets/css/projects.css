@@ -16,24 +16,21 @@
   background-color: #fff;
   align-items: center;
   margin: 1rem;
-}
-
-.card :hover{
-  background-color:none;
-  border: #53A041; 
+  margin-top: 3rem;
 }
 
 div.card .trigger{
   display: flex;
+  align-items: center;
   flex-direction: column;
   font-size: 1.5rem;
   font-weight: 700;
-  padding: 1rem 2rem;
+  padding: 3rem 1rem 1rem 1rem;
   background-color: aliceblue;
   color: #53A041;
   border:  #53A041 5px solid;
   border-radius:4.0rem ;
-  justify-content: space-between;
+  cursor: pointer;
 }
 
 .card .trigger::after{
@@ -45,21 +42,17 @@ div.card .trigger{
   transition: .25s;
 }
 
-.card .trigger:hover{
-  cursor: pointer;
-}
-
 .card .content{
   overflow: hidden;
   height: 0;
   transition: opacity .25s ease-in-out;
-  color: #53A041;
   display: none;
   font-size: 1.3rem;
   border-radius:40px;
   border:#1e6c0e 5px solid;
   align-items: center;
   margin:  0.5rem ;
+  background-color: aliceblue;
 }
 
 .card.open .content{
@@ -89,7 +82,10 @@ section{
 section.cards{
   display: flex;
   padding: 3rem;
-  
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center; 
 }
 
 section.cards div.card{
@@ -100,7 +96,7 @@ section.cards div.card{
   flex-direction: column;
   align-items: center;
   text-align: center; 
-  padding: 1rem 1.5rem;
+  padding: 1rem;
   border-radius: 15px;
   }
 
@@ -110,10 +106,6 @@ div.seccolor{
   border: #53A041 8px solid;
   margin: 1rem;
   padding: 0;
-}
-
-div.content.try{
-  background-color: aliceblue;
 }
 
 @media screen and (max-width: 1139px) {

@@ -4,6 +4,7 @@
     align-items: center;
     flex-wrap: wrap;
     list-style: none;
+    justify-content: center;
 }
 
 .languages li{
