@@ -14,6 +14,7 @@ body {
     justify-content: space-between;
     align-items: stretch;
     min-height: 100vh;
+    width: 100%;
     background: rgb(47, 80, 62);
 }
 .main {
@@ -25,7 +26,7 @@ body {
 
 
 
- @media only screen and (min-width: 480px) {
+ @media only screen and (min-width: 768px) {
     .main {
         max-width: 2000px;
         justify-items: center;

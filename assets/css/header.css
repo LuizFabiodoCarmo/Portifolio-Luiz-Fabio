@@ -3,6 +3,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
 }
 
 .header .photo{
@@ -68,7 +70,7 @@ img {
     color: #53A041;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 856px) {
     .header{
        display: grid; 
        grid-template-areas: 
