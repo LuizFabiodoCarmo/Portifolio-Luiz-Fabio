@@ -1,4 +1,4 @@
-/* 
+
 
 .acordeon{
     overflow: hidden;
@@ -58,12 +58,12 @@
     height: 100%;
     margin: 1rem;
     padding: 1rem;
-} */
+}
 
 
 /* -----------------TESTE-------------------------- */
 
-.acordeon {
+/* .acordeon {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -111,7 +111,7 @@
     background-size: contain;
     background-image: url('C:\Estudos\Dio-Portifólio\assets\icons\arrow down.png');
     transition: .25s;
-    /* background-color:#53A041 ; */
+    background-color:#53A041 ;
 }
 
 .acordeon.open .trigger::after {
@@ -130,4 +130,4 @@
     padding: 0 1rem 1rem 2rem;
     height: auto;
     opacity: 1;
-}
+} */
