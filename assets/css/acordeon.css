@@ -1,6 +1,6 @@
 
 
-.acordeon{
+.acordeon.content{
     overflow: hidden;
     display: flex;
     flex-direction: column;
