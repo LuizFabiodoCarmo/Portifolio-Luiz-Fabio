@@ -45,9 +45,14 @@ Aula ministra por:
 - Ainda focado em UX, os botões trazendo ao projeto modernidade e sofisticação.
 
 ### Partes desenvolvidas por mim
-
+- Texto e Vídeo Apresentação
+Adicionei esta parte para poder apresentar meu trajeto para me tornar um Dev.
+ 
 - Certificados
-Para além dos projetos, achei que seria interessante expor os certificados que adquiri. 
+Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
+<div align="center"> 
+ <video height="250px">[Portifólio-certificados.webm](https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78) </video>
+</div> 
 
 - Botões retráteis agrupados na mesma linha.
 Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
@@ -59,7 +64,7 @@ Tons de Verde : Riqueza, natureza, saúde, esperança.
 
 Tons de Branco : pureza, neutralidade, paz e espiritualidade.
 
-Caso tenha interesse, acesse meu <br>
+Caso tenha interesse, acesse meu  
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com).
 
 
