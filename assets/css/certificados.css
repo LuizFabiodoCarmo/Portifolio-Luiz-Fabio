@@ -61,24 +61,6 @@ section.cards div.card span{
 
 }
 
-/* section.cards div.card button{
-    cursor: pointer; 
-    transition: max-height 0.2s ease-in-out;
-    background-color: aliceblue;
-    border-radius: 30px;
-    border:#53A041 5px solid;
-    color: #53A041;
-    margin-top: 1rem;
-    margin-bottom: 0;
-    display: flex;
-    font-size: 20px;
-    width: 8rem;
-    height: 2.5rem;
-    justify-content: center;
-    align-items: center;
-    justify-items: center;
-} */
-
 section.cards div.card:first-child{
     margin-left: 0;
     

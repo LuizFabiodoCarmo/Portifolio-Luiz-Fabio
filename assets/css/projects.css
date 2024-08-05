@@ -108,7 +108,7 @@ div.seccolor{
   padding: 0;
 }
 
-@media screen and (max-width: 1139px) {
+@media screen and (max-width: 768px) {
   section.cards{
      flex-direction: column;
    } 
