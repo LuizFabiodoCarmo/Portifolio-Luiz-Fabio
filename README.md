@@ -27,11 +27,11 @@ Aula ministra por:
   Nome do curso : Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript.
   
 - A proposta da aula era criar um portifólio porfissional com base nos conhecimentos adquiridos em aula com HTML, CSS e JavaScript.
-<h3 align="center" color="green">(Modelo do portifólio proposto)</h3>
+<h3 align="center">(Modelo do portifólio proposto)</h3>
 <div align="center">
     <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>                     
 <div>
-
+<div align="left">
 ### Funcionalidades a Modelar
 1. Responsividade
 - Técnica de estruturação HTML e CSS, que consiste em adaptar o site ao browser do usuário.
@@ -57,5 +57,5 @@ Tons de Branco : pureza, neutralidade, paz e espiritualidade.
 
 Caso tenha interesse, acesse meu 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com).
- 
+ <div>
 
