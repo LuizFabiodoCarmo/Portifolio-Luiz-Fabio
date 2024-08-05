@@ -47,9 +47,9 @@ Aula ministra por:
 ### Partes desenvolvidas por mim
 
 - Certificados
-Para além de expor os projetos, achei que seria interessante a existência desta parte dentro do Portifólio. 
+Para além dos projetos, achei que seria interessante expor os certificados que adquiri. 
 
-- Botões retráteis agrupados na mesma linha
+- Botões retráteis agrupados na mesma linha.
 Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
 
 - UX Designer
@@ -59,7 +59,7 @@ Tons de Verde : Riqueza, natureza, saúde, esperança.
 
 Tons de Branco : pureza, neutralidade, paz e espiritualidade.
 
-Caso tenha interesse, acesse meu 
+Caso tenha interesse, acesse meu <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com).
 
 
