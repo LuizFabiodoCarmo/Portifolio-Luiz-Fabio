@@ -51,7 +51,7 @@ Adicionei esta parte para poder apresentar meu trajeto para me tornar um Dev.
 - Certificados
 Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
 <div align="center"> 
- <video height="250px">[Portifólio-certificados.webm](https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78) </video>
+ <video height="250px" src="https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78"></video>
 </div> 
 
 - Botões retráteis agrupados na mesma linha.
