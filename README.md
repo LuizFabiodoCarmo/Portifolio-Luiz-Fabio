@@ -29,10 +29,11 @@ Aula ministra por:
 - A proposta da aula era criar um portifólio porfissional com base nos conhecimentos adquiridos em aula com HTML, CSS e JavaScript.
 <h3 align="center">(Modelo do portifólio proposto)</h3>
 <div align="center">
-    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>                     
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>      
 <div>
+
+ ### Funcionalidades a Modelar
 <div align="left">
-### Funcionalidades a Modelar
 1. Responsividade
 - Técnica de estruturação HTML e CSS, que consiste em adaptar o site ao browser do usuário.
 2. UX
