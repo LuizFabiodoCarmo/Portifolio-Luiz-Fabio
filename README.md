@@ -27,10 +27,7 @@ Aula ministra por:
   Nome do curso : Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript.
   
 - A proposta da aula era criar um portifólio porfissional com base nos conhecimentos adquiridos em aula com HTML, CSS e JavaScript.
-<h3 align="center">(Modelo do portifólio proposto)</h3>
-<div align="center">
-    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>      
-<div>
+
 <br>
  
  ### Funcionalidades a Modelar
