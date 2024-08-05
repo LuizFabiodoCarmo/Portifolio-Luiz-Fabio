@@ -15,10 +15,8 @@ Tornar esse gif pequeno
  </div>-->
 <h2 align="center" color="green"> Olá, seja bem vindo(a) ao meu projeto!</h2>
 <div align="center"> 
-  <img height="250px" title="modelo curso" src="https://github.com/user-attachments/assets/7446622e-2731-4444-b144-039104199061"/>
+  <img height="250px" title="gif logoPortifolio" src="https://github.com/user-attachments/assets/7446622e-2731-4444-b144-039104199061"/>
 </div> 
-
-
 
 ### Contexto  
 Aula ministra por: 
@@ -28,7 +26,13 @@ Aula ministra por:
   
 - A proposta da aula era criar um portifólio porfissional com base nos conhecimentos adquiridos em aula com HTML, CSS e JavaScript.
 
+<h3 align="center">(Modelo do portifólio proposto)</h3>
+<div align="center">
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>      
+</div>
 <br>
+
+
  
  ### Funcionalidades a Modelar
 
