@@ -32,8 +32,10 @@ Aula ministra por:
     <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>      
 <div>
 <br>
+ 
  ### Funcionalidades a Modelar
-<div align="left">
+
+
 1. Responsividade
 - Técnica de estruturação HTML e CSS, que consiste em adaptar o site ao browser do usuário.
 2. UX
@@ -58,5 +60,5 @@ Tons de Branco : pureza, neutralidade, paz e espiritualidade.
 
 Caso tenha interesse, acesse meu 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com).
- <div>
+
 
