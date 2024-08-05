@@ -15,7 +15,7 @@ Tornar esse gif pequeno
  </div>-->
 
 ## Olá, seja bem vindo(a) ao meu projeto!
-
+![gif github ‐ Feito com o Clipchamp](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef)
 
 ### Contexto  
 Aula ministra por: 
@@ -24,7 +24,7 @@ Aula ministra por:
   Nome do curso : Criando e Estilizando uma Página de Portfólio Profissional com CSS e JavaScript.
   
 - A proposta da aula era criar um portifólio porfissional com base nos conhecimentos adquiridos em aula com HTML, CSS e JavaScript.
-<h3 align="center" color="green">(Modelo do portifólio proposto:)</h3>
+<h3 align="center" color="green">(Modelo do portifólio proposto)</h3>
 <div align="center">
     <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/a961fe94-c281-4dea-8ea5-2ec959a9ecc8"/>                     
 <div>
