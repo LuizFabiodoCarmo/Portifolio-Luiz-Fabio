@@ -34,7 +34,7 @@ Aula ministra por:
 
 
  
- ### Funcionalidades a Modelar
+ ## Funcionalidades a Modelar
 
 
 1. Responsividade
@@ -44,21 +44,29 @@ Aula ministra por:
 3. Botões retráteis 
 - Ainda focado em UX, os botões trazendo ao projeto modernidade e sofisticação.
 
-### Partes desenvolvidas por mim
-- Texto e Vídeo Apresentação
-Adicionei esta parte para poder apresentar meu trajeto para me tornar um Dev.
- 
-- Certificados
-Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
+## Partes desenvolvidas por mim
+### Texto e Vídeo Apresentação.
+- Adicionei esta parte para poder apresentar meu trajeto para me tornar um Dev.
 <div align="center"> 
- <video height="250px" src="https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78"></video>
+ <video height="200px" src="https://github.com/user-attachments/assets/bfc6dbb7-9455-4481-852e-bc5f794d97e2"></video>
+</div> 
+ 
+### Certificados.
+- Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
+<div align="center"> 
+ <video height="200px" src="https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78"></video>
 </div> 
 
-- Botões retráteis agrupados na mesma linha.
-Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
+### Botões retráteis agrupados na mesma linha.
+- Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
+<div align="center"> 
+ <video height="200px" src="https://github.com/user-attachments/assets/bc08e23a-ab22-45cb-bc8b-6bbc4b809964"></video>
+</div> 
 
-- UX Designer
-As cores que compõe um projeto FrontEnd como um site, aplicativo etc, são de extrema importância para uma boa experiência do usuário, tendo isso em mente, busquei tons que fossem reçaltar a qualidade do projeto, com base na psicologia das cores. 
+
+
+### UX Designer
+- As cores que compõe um projeto FrontEnd como um site, aplicativo etc, são de extrema importância para uma boa experiência do usuário, tendo isso em mente, busquei tons que fossem reçaltar a qualidade do projeto, com base na psicologia das cores. 
 
 Tons de Verde : Riqueza, natureza, saúde, esperança.
 
