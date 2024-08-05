@@ -14,7 +14,9 @@
 Tornar esse gif pequeno 
  </div>-->
 <h2 align="center" color="green"> Olá, seja bem vindo(a) ao meu projeto!</h2>
-<div align="center"> ![gif github ‐ Feito com o Clipchamp](https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef) </div> 
+<div align="center"> 
+  <img height="" title="modelo curso" src="https://github.com/LuizFabiodoCarmo/LuizFabiodoCarmo/assets/104438927/37357274-dbac-4514-8027-4d06b78245ef"/>
+</div> 
 
 
 ### Contexto  
