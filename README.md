@@ -1,18 +1,6 @@
 <di align="center">![GitPort](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/307cd74a-075b-48c0-a36b-5f1909bdc118)
 </div>
 
-
-<!--<h1 > Hello, I'm Luiz Fabio. </h1>
-
-<h2 align="center" color="green">Olá, seja bem vindo(a) ao meu projeto!</h2>-->
-
-
-<!--<div align="center" height="100px" >
- 
-![projetos-_2_](https://github.com/LuizFabiodoCarmo/Portifolio-Luiz-Fabio/assets/104438927/6a181e5b-fae9-4e13-af3e-4cdd932c6279)
-
-Tornar esse gif pequeno 
- </div>-->
 <h2 align="center" color="green"> Olá, seja bem vindo(a) ao meu projeto!</h2>
 <div align="center"> 
   <img height="250px" title="gif logoPortifolio" src="https://github.com/user-attachments/assets/7446622e-2731-4444-b144-039104199061"/>
@@ -50,19 +38,19 @@ Aula ministra por:
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/bfc6dbb7-9455-4481-852e-bc5f794d97e2"></video>
 </div> 
- 
+ ---------------------------------------------------------------
 ### Certificados.
 - Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78"></video>
 </div> 
-
+---------------------------------------------------------------
 ### Botões retráteis agrupados na mesma linha.
 - Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/bc08e23a-ab22-45cb-bc8b-6bbc4b809964"></video>
 </div> 
-
+---------------------------------------------------------------
 
 
 ### UX Designer
