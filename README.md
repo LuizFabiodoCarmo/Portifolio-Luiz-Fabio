@@ -33,26 +33,28 @@ Aula ministra por:
 - Ainda focado em UX, os botões trazendo ao projeto modernidade e sofisticação.
 
 ## Partes desenvolvidas por mim
-### Texto e Vídeo Apresentação.
-- Adicionei esta parte para poder apresentar meu trajeto para me tornar um Dev.
+<br>
+<br>
+<h3 align="center" ">Texto e Vídeo Apresentação.</h3>
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/bfc6dbb7-9455-4481-852e-bc5f794d97e2"></video>
 </div> 
+- Mostra toda a trajetória profissional, mudança de carreira e primeiros passos no mundo Dev.
 <br>
 <br>
 
-### Certificados.
-- Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
+<h3 align="center" ">Certificados.</h3>
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78"></video>
 </div> 
+- Para além dos projetos, seria interessante expor os certificados que adquiri ao longo dos Curso, Bootcamps ou Faculdade, é possível clicar e expandir o certificado.
 <br>
 <br>
-### Botões retráteis agrupados na mesma linha.
-- Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
+<h3 align="center" ">Botões retráteis agrupados na mesma linha.</h3>
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/bc08e23a-ab22-45cb-bc8b-6bbc4b809964"></video>
 </div> 
+- Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
 <br>
 <br>
 
