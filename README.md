@@ -38,19 +38,23 @@ Aula ministra por:
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/bfc6dbb7-9455-4481-852e-bc5f794d97e2"></video>
 </div> 
- ---------------------------------------------------------------
+<br>
+<br>
+
 ### Certificados.
 - Para além dos projetos, achei que seria interessante expor os certificados que adquiri, é possível clicar e expandir.
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/70133290-8cc6-47b9-bf16-9c08f81dce78"></video>
 </div> 
----------------------------------------------------------------
+<br>
+<br>
 ### Botões retráteis agrupados na mesma linha.
 - Apliquei a proposta dos botões retráteis do professor de uma maneira que ficasse mais agradável e a quantidade de conteúdo não ficasse maçante ao usuário.
 <div align="center"> 
  <video height="200px" src="https://github.com/user-attachments/assets/bc08e23a-ab22-45cb-bc8b-6bbc4b809964"></video>
 </div> 
----------------------------------------------------------------
+<br>
+<br>
 
 
 ### UX Designer
