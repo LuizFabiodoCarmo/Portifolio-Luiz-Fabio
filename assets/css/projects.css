@@ -11,11 +11,11 @@
 }
 
 .mainer {
-  border: 15px solid #53A041;
+  border: 11px solid #53A041;
   border-radius: 1rem;
   background-color: #fff;
   align-items: center;
-  margin: 1rem;
+  margin: 0,5rem;
   margin-top: 7rem;
 }
 
@@ -90,8 +90,7 @@ section.cards{
 
 section.cards div.card{
   background-color: #93c389;    
-  max-width: 450px; 
-  margin-left: 32px;
+  max-width: 400px; 
   display: flex;
   flex-direction: column;
   align-items: center;
