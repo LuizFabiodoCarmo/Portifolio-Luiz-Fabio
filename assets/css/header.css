@@ -48,7 +48,7 @@ img {
     border-radius: 30px;
     border:#53A041 4px solid;
     color: #53A041;
-    font-size: 20px; 
+    font-size: 22px; 
     margin: 1rem 0 0 0 ;
     width: 12rem;
     cursor: pointer;
@@ -66,7 +66,7 @@ img {
     flex-direction: row;
     align-items: center;
     display: flex;
-    font-size: 1.3rem;
+    font-size: 1.8rem;
     color: #53A041;
 }
 
@@ -78,8 +78,9 @@ img {
           "photo information";
     }
     .header .photo{
+        margin-top: 3rem;
         grid-area: photo;
-        margin: 0 auto;
+        /* margin: 0 auto; */
         width: 500px;
         height: 500px;
       }  

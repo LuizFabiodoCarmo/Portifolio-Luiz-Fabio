@@ -1,4 +1,4 @@
-.projects{
+/* .projects{
   border-bottom: .5rem solid;
   color: #53A041;
   position: relative;
@@ -8,7 +8,7 @@
   margin: 6rem 3rem 1rem 3rem;
   margin-bottom: 3rem;
   font-size: x-large;
-}
+}*/
 
 .mainer {
   border: 11px solid #53A041;
@@ -17,9 +17,10 @@
   align-items: center;
   margin: 0,5rem;
   margin-top: 7rem;
+  margin-bottom: 4rem; 
 }
 
-div.card .trigger{
+div.card .trigger{  
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -88,7 +89,7 @@ section.cards{
   align-items: center; 
 }
 
-section.cards div.card{
+/* section.cards div.card{
   background-color: #93c389;    
   max-width: 400px; 
   display: flex;
@@ -97,14 +98,15 @@ section.cards div.card{
   text-align: center; 
   padding: 1rem;
   border-radius: 15px;
-  }
+  } */
 
 div.seccolor{
   background-color: #93c389;
-  border-radius: 40px;
+  border-radius: 15px;
   border: #53A041 8px solid;
   margin: 1rem;
   padding: 0;
+  margin-bottom: 4rem;
 }
 
 @media screen and (max-width: 768px) {
