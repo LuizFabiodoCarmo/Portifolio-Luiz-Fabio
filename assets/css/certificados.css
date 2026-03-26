@@ -1,156 +1,164 @@
 * {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    box-sizing: border-box;
-    font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: space-between;
-    align-items: stretch;
-    min-height: 100vh;
-    background: rgb(47, 80, 62); 
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: stretch;
+  min-height: 100vh;
+  background: rgb(47, 80, 62);
 }
 
 .main {
-    border: 15px solid #53A041;
-    border-radius: 1rem;
-    background-color: #fff;
- 
-}
-
- section.cards{
-    display: flex;
-    padding: 3rem;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    justify-content: center;
-    align-items: center;
-}
-
-div.seccolor{
-    background-color: #93c389;
-    border-radius: 40px;
-    border: #53A041 8px solid;
-    margin: 1rem;
-    padding: 0;
-}
-
-section.cards div.card{
- display: flex;
- flex-direction: column;
- align-items: center;
- text-align: center;
- background-color: #f0f8ff;
- border:#53A041 8px solid;
- color: #53A041;
- padding: 1rem;
- border-radius: 15px;
- max-width: 450px; 
- margin-left: 32px;
-}
-
-section.cards div.card span{
-   color: #124f04;
-   font-size: 1.5rem;
+  border: 15px solid #53A041;
+  border-radius: 1rem;
+  background-color: #fff;
 
 }
 
-section.cards div.card:first-child{
-    margin-left: 0;
-    
+section.cards {
+  display: flex;
+  padding: 3rem;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+div.seccolor {
+  background-color: #93c389;
+  border-radius: 40px;
+  border: #53A041 8px solid;
+  margin: 1rem;
+  padding: 0;
+}
+
+section.cards div.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #f0f8ff;
+  border: #53A041 8px solid;
+  color: #53A041;
+  padding: 1rem;
+  border-radius: 15px;
+  max-width: 450px;
+  margin-left: 32px;
+}
+
+section.cards div.card span {
+  color: #124f04;
+  font-size: 1.5rem;
+  font-style: none;
+  margin-top: 1rem;
+}
+
+section.cards div.card:first-child {
+  margin-left: 0;
+
 }
 
 
-section.cards div.card.icon{
-    width:"550px"; 
-    height:"500px";
+section.cards div.card.icon {
+  width: "550px";
+  height: "500px";
 }
 
-section.cards div.card img{
+section.cards div.card img {
   width: 100%;
 }
-section.cards div.card h3{
-    margin-top: 1rem;   
+
+section.cards div.card h3 {
+  margin-top: 1rem;
 }
 
-h1{
- color: #53A041;
- text-align: center;
- margin-top: 2rem;
- margin-bottom: 5rem;
- font-size: 50px;
- align-items: center;
+h1 {
+  color: #53A041;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  font-size: 50px;
+  align-items: center;
 }
 
-span{
-    margin-top: 1rem;
-    color: #124f04;
-    font-style: none;
-}
 
 @media screen and (max-width: 856px) {
-  section.cards{
-     flex-direction: column;
-   } 
-     
-   section.cards div.card{
-     margin-left: 0;
-     margin-bottom: 60px;
-   }
-   
-
-   section.cards div.card:last-child{
-    margin-bottom: 0;
-   }
-
-
-} 
-
-div.bttn{
-    display: flex;
+  section.cards {
     flex-direction: column;
-    align-items: center;
   }
 
-button.bback{
-    background-color: #ffffff;
-    border-radius: 30px;
-    border:#53A041 10px solid;
-    width: 9rem;
-    cursor: pointer; 
-    margin-top: 2rem;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    position: relative;
-    top: 10px; 
-    margin-bottom: 3rem;
-} 
+  section.cards div.card {
+    margin-left: 0;
+    margin-bottom: 60px;
+  }
 
+
+  section.cards div.card:last-child {
+    margin-bottom: 0;
+  }
+
+
+}
+
+div.bttn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button.bback {
+  background-color: #ffffff;
+  border-radius: 30px;
+  border: #53A041 10px solid;
+  width: 9rem;
+  cursor: pointer;
+  margin-top: 2rem;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  position: relative;
+  top: 10px;
+  margin-bottom: 3rem;
+}
+
+button.git {
+  background-color: #53A041;
+  border-radius: 50px;
+
+
+
+}
 
 
 @media screen and (max-width: 856px) {
 
 
 
-    section.cards{
-       flex-direction: column;
-     } 
-       
-     section.cards div.card{
-       margin-left: 0;
-       margin-bottom: 60px;
-       justify-content: center;
-     }
-     
-  
-     section.cards div.card:last-child{
-      margin-bottom: 0;
-     }
-  } 
+  section.cards {
+    flex-direction: column;
+  }
+
+  section.cards div.card {
+    margin-left: 0;
+    margin-bottom: 60px;
+    justify-content: center;
+  }
+
+
+  section.cards div.card:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.espace {
+  margin-bottom: 5rem;
+}
